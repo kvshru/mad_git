@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
         TextView textView3 = findViewById(R.id.textView3);
         textView1.setText("OwO");
         textView2.setText("Hi!");
-        textView3.setText("Nice To Meet You!");
+        textView3.setText("Nice To Meet You! UwU");
     }
 }
